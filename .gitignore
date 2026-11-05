@@ -214,10 +214,13 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
 __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Extracted datasets
+data/extracted/

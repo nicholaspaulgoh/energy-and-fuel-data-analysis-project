@@ -214,6 +214,9 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
 __marimo__/
 
 # Streamlit
